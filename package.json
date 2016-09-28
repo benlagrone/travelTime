@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/benlagrone/travelTime#readme",
   "devDependencies": {
+    "bower": "^1.7.9",
     "express": "^4.14.0"
   }
 }
